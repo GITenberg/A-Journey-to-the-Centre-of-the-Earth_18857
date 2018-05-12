@@ -1,0 +1,102 @@
+_repo: A-Journey-to-the-Centre-of-the-Earth_18857
+_version: 0.1.0
+alternative_title: Voyage au centre de la terre. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Jules Gabriel
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+description: "Journey to the Center of the Earth (French: Voyage au centre de la Terre,\
+  \ also translated under the titles A Journey to the Centre of the Earth and A Journey\
+  \ to the Interior of the Earth) is an 1864 science fiction novel by Jules Verne.\
+  \ The story involves German professor Otto Lidenbrock who believes there are volcanic\
+  \ tubes going toward the centre of the Earth. He, his nephew Axel, and their guide\
+  \ Hans descend into the Icelandic volcano Snæfellsjökull, encountering many adventures,\
+  \ including prehistoric animals and natural hazards, before eventually coming to\
+  \ the surface again in southern Italy, at the Stromboli volcano.\nThe genre of subterranean\
+  \ fiction already existed long before Verne. However, the present book considerably\
+  \ added to its popularity and influenced later such writings. For example, Edgar\
+  \ Rice Burroughs explicitly acknowledged Verne's influence on his own Pellucidar\
+  \ series.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Science Fiction
+- Movie Books
+gutenberg_issued: '2006-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18857'
+  wikidata: Q219457
+language: en
+publication_note: Griffith and Farran, 1871
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages, Imaginary -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Earth (Planet) -- Core -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+title: A Journey to the Centre of the Earth
+url: http://www.gutenberg.org/ebooks/18857
+wikipedia:
+- https://fi.wikipedia.org/wiki/Matka_maan_keskipisteeseen
+- https://eo.wikipedia.org/wiki/Voja%C4%9Do_al_la_centro_de_la_Tero
+- https://fa.wikipedia.org/wiki/%D8%B3%D9%81%D8%B1_%D8%A8%D9%87_%D9%85%D8%B1%DA%A9%D8%B2_%D8%B2%D9%85%DB%8C%D9%86
+- https://cs.wikisource.org/wiki/Cesta_do_st%C5%99edu_Zem%C4%9B
+- https://en.wikisource.org/wiki/Journey_into_the_Interior_of_the_Earth
+- https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6_%D0%B4%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D1%83_%D0%97%D0%B5%D0%BC%D0%BB%D1%96
+- https://uk.wikiquote.org/wiki/%D0%9F%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D0%B6_%D0%B4%D0%BE_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D1%83_%D0%97%D0%B5%D0%BC%D0%BB%D1%96
+- https://el.wikipedia.org/wiki/%CE%A4%CE%B1%CE%BE%CE%AF%CE%B4%CE%B9_%CF%83%CF%84%CE%BF_%CE%9A%CE%AD%CE%BD%CF%84%CF%81%CE%BF_%CF%84%CE%B7%CF%82_%CE%93%CE%B7%CF%82
+- https://gl.wikipedia.org/wiki/Viaxe_ao_centro_da_Terra
+- https://pl.wikiquote.org/wiki/Podr%C3%B3%C5%BC_do_wn%C4%99trza_Ziemi
+- https://sv.wikipedia.org/wiki/Till_jordens_medelpunkt
+- https://az.wikipedia.org/wiki/Yerin_m%C9%99rk%C9%99zin%C9%99_s%C9%99yah%C9%99t
+- https://ja.wikipedia.org/wiki/%E5%9C%B0%E5%BA%95%E6%97%85%E8%A1%8C
+- https://pt.wikipedia.org/wiki/Viagem_ao_Centro_da_Terra
+- https://es.wikipedia.org/wiki/Viaje_al_centro_de_la_Tierra
+- https://sk.wikipedia.org/wiki/Cesta_do_stredu_Zeme
+- https://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%BA_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D1%83_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+- https://ro.wikipedia.org/wiki/O_c%C4%83l%C4%83torie_spre_centrul_P%C4%83m%C3%A2ntului
+- https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B5%AC_%EC%86%8D_%EC%97%AC%ED%96%89
+- https://et.wikipedia.org/wiki/Reis_maakera_s%C3%BCdamesse
+- https://fr.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre
+- https://sh.wikipedia.org/wiki/Voyage_au_centre_de_la_Terre
+- https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%BF%83%E6%AD%B7%E9%9A%AA%E8%A8%98
+- https://pl.wikipedia.org/wiki/Podr%C3%B3%C5%BC_do_wn%C4%99trza_Ziemi
+- https://hu.wikipedia.org/wiki/Utaz%C3%A1s_a_F%C3%B6ld_k%C3%B6z%C3%A9ppontja_fel%C3%A9_(reg%C3%A9ny)
+- https://es.wikisource.org/wiki/Viaje_al_centro_de_la_Tierra
+- https://vi.wikipedia.org/wiki/H%C3%A0nh_tr%C3%ACnh_v%C3%A0o_t%C3%A2m_Tr%C3%A1i_%C4%91%E1%BA%A5t
+- https://ru.wikiquote.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5_%D0%BA_%D1%86%D0%B5%D0%BD%D1%82%D1%80%D1%83_%D0%97%D0%B5%D0%BC%D0%BB%D0%B8
+- https://sq.wikipedia.org/wiki/Udhetim_me_qender_te_tokes
+- https://da.wikipedia.org/wiki/Rejsen_til_Jordens_indre
+- https://rm.wikipedia.org/wiki/Viadi_al_Center_da_la_Terra
+- https://ka.wikipedia.org/wiki/%E1%83%9B%E1%83%9D%E1%83%92%E1%83%96%E1%83%90%E1%83%A3%E1%83%A0%E1%83%9D%E1%83%91%E1%83%90_%E1%83%93%E1%83%94%E1%83%93%E1%83%90%E1%83%9B%E1%83%98%E1%83%AC%E1%83%98%E1%83%A1_%E1%83%AA%E1%83%94%E1%83%9C%E1%83%A2%E1%83%A0%E1%83%98%E1%83%A1%E1%83%99%E1%83%94%E1%83%9C
+- https://ar.wikipedia.org/wiki/%D8%B1%D8%AD%D9%84%D8%A9_%D8%A5%D9%84%D9%89_%D9%85%D8%B1%D9%83%D8%B2_%D8%A7%D9%84%D8%A3%D8%B1%D8%B6
+- https://nl.wikipedia.org/wiki/Naar_het_middelpunt_der_aarde
+- https://id.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth
+- https://pt.wikiquote.org/wiki/A_Viagem_ao_Centro_da_Terra
+- https://cs.wikipedia.org/wiki/Cesta_do_st%C5%99edu_Zem%C4%9B
+- https://de.wikipedia.org/wiki/Die_Reise_zum_Mittelpunkt_der_Erde
+- https://lt.wikipedia.org/wiki/Kelion%C4%97_%C4%AF_%C5%BDem%C4%97s_centr%C4%85
+- https://eu.wikipedia.org/wiki/Lurraren_bihotzeraino
+- https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%B2%D6%87%D5%B8%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6_%D5%A4%D5%A5%D5%BA%D5%AB_%D5%A5%D6%80%D5%AF%D6%80%D5%AB_%D5%AF%D5%A5%D5%B6%D5%BF%D6%80%D5%B8%D5%B6%D5%A8
+- https://it.wikipedia.org/wiki/Viaggio_al_centro_della_Terra_(romanzo)
+- https://no.wikipedia.org/wiki/Reisen_til_Jordens_indre
+- https://ca.wikipedia.org/wiki/Viatge_al_centre_de_la_Terra_(novel%C2%B7la)
+- https://tr.wikipedia.org/wiki/D%C3%BCnyan%C4%B1n_Merkezine_Seyahat
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A2_%D7%90%D7%9C_%D7%91%D7%98%D7%9F_%D7%94%D7%90%D7%93%D7%9E%D7%94
